@@ -31,7 +31,7 @@
       </td>
       <td width="25%" align="center">
         <span>Rally ALM</span><br><br>
-        <img height="64px" src="https://n7.nextpng.com/sticker-png/479/617/sticker-png-hackathon-agile-software-development-rally-software-computer-software-application-lifecycle-management-enterprise-rallying-cry-text-logo-signage-rally-software-thumbnail.png">
+        <img height="64px" src="https://www.3pillarglobal.com/wp-content/uploads/2015/11/rally_logo_320x260-1.png">
       </td>
     </tr>
   </tbody>
