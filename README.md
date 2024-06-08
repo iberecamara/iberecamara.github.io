@@ -12,6 +12,14 @@
         <img height="64px" src="https://www.3pillarglobal.com/wp-content/uploads/2015/11/rally_logo_320x260-1.png">
       </td>
       <td width="25%" align="center">
+        <span>Jira</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jira.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Zephyr</span><br><br>
+        <img height="64px" src="https://marketplace-cdn.atlassian.com/files/6d82b909-ae65-46de-99d5-1c812e23388b">
+      </td>
+      <td width="25%" align="center">
         <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
