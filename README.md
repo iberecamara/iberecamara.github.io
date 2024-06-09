@@ -1,5 +1,3 @@
-# Iberê Camara
-
 #### Quality Engineer | Software Developer in Test | Quality Evangelist
 [![](https://img.shields.io/badge/LinkedIn-iberecamara-blue)](https://www.linkedin.com/in/iberecamara/) 
 [![](https://img.shields.io/badge/Gmail-ibere.camara%40gmail.com-red)](mailto:ibere.camara@gmail.com) 
