@@ -1,16 +1,13 @@
 # Iberê Camara
 
 #### Quality Engineer | Software Developer in Test | Quality Evangelist
-<table>
-  <tbody>
-    <tr>
-      [![](https://img.shields.io/badge/LinkedIn-iberecamara-blue)](https://www.linkedin.com/in/iberecamara/) 
-      [![](https://img.shields.io/badge/Gmail-ibere.camara%40gmail.com-red)](mailto:ibere.camara@gmail.com) 
-      [![](https://img.shields.io/badge/Whatsapp-%40iberecamara-green)](https://api.whatsapp.com/send/?phone=5541996146048)
-      [![](https://img.shields.io/badge/Telegram-%40iberecamara-blue)](https://t.me/iberecamara)
-    </tr>
-  </tbody>
-</table>
+[![](https://img.shields.io/badge/LinkedIn-iberecamara-blue)](https://www.linkedin.com/in/iberecamara/) 
+[![](https://img.shields.io/badge/Gmail-ibere.camara%40gmail.com-red)](mailto:ibere.camara@gmail.com) 
+[![](https://img.shields.io/badge/Whatsapp-%40iberecamara-green)](https://api.whatsapp.com/send/?phone=5541996146048)
+[![](https://img.shields.io/badge/Telegram-%40iberecamara-blue)](https://t.me/iberecamara)
+#### Test Automation repositories
+[![](https://img.shields.io/badge/Backend-Automation-blue)](https://github.com/iberecamara/JavaBackendAutomation) 
+[![](https://img.shields.io/badge/Frontend-Automation-green)](https://github.com/iberecamara/JavaFrontendAutomation) 
 
 ### Skills
 <table>
