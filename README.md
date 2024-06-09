@@ -6,6 +6,7 @@
 ### Skills
 <table>
   <tbody>
+    <!-- General tools -->
     <tr valign="top">
       <td width="20%" align="center">
         <span>Rally ALM</span><br><br>
@@ -28,6 +29,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/splunk.svg">
       </td>
     </tr>
+    <!-- IDEs -->
     <tr valign="top">
       <td width="20%" align="center">
         <span>Intellij IDEA</span><br><br>
@@ -37,7 +39,12 @@
         <span>Visual Studio Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="20%" align="center">
+        <span>DBeaver</span><br><br>
+        <img height="64px" src="https://seeklogo.com/images/D/dbeaver-logo-E07205C498-seeklogo.com.png">
+      </td>
     </tr>
+    <!-- Java and frameworks -->
     <tr valign="top">
       <td width="20%" align="center">
         <span>Java</span><br><br>
@@ -60,6 +67,7 @@
         <img height="64px" src="https://jbehave.org/images/jbehave-logo.png">
       </td>
     </tr>
+    <!-- Python and frameworks -->
     <tr valign="top">
       <td width="20%" align="center">
         <span>Python</span><br><br>
