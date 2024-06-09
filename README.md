@@ -24,7 +24,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Git</span><br><br>
+        <span>Splunk</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/splunk.svg">
       </td>
     </tr>
