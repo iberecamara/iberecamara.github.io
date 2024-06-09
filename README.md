@@ -40,6 +40,18 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
+        <span>Spring</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SpringBoot</span><br><br>
+        <img height="64px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cucumber.svg">
+      </td>
+      <td width="25%" align="center">
         <span><bold>JBehave</bold></span><br><br>
         <img height="64px" src="https://jbehave.org/images/jbehave-logo.png">
       </td>
@@ -48,6 +60,10 @@
       <td width="25%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://behave.readthedocs.io/en/latest/_images/behave_logo1.png">
       </td>
     </tr>
   </tbody>
