@@ -6,6 +6,9 @@
 #### Test Automation repositories
 [![](https://img.shields.io/badge/Backend-Automation-green)](https://github.com/iberecamara/JavaBackendAutomation) 
 [![](https://img.shields.io/badge/Frontend-Automation-green)](https://github.com/iberecamara/JavaFrontendAutomation) 
+#### Resume / Curriculum Vitae
+[![](https://img.shields.io/badge/🇧🇷-Português-do-Brasil)](https://drive.google.com/file/d/1Ffa7rW5Iv95SPk7OIv4LuO5cbZsle1q2/view) 
+[![](https://img.shields.io/badge/🇺🇸English)](https://drive.google.com/file/d/1N1xqYcUOQ0lD03H3E3pSB91MpZy2YcUN/view) 
 
 ### Skills
 <table>
