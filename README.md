@@ -81,7 +81,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
-        <span>Python</span><br><br>
+        <span>Behave</span><br><br>
         <img height="64px" src="https://behave.readthedocs.io/en/latest/_images/behave_logo1.png">
       </td>
     </tr>
