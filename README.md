@@ -1,8 +1,8 @@
 #### Quality Engineer | Software Developer in Test | Quality Evangelist
-[![](https://img.shields.io/badge/LinkedIn-iberecamara-blue)](https://www.linkedin.com/in/iberecamara/) 
+[![](https://img.shields.io/badge/LinkedIn-iberecamara-blue)](https://www.linkedin.com/in/iberecamara)
+[![](https://img.shields.io/badge/GitHub-iberecamara-purple)](https://github.com/iberecamara) 
 [![](https://img.shields.io/badge/Gmail-ibere.camara%40gmail.com-red)](mailto:ibere.camara@gmail.com) 
 [![](https://img.shields.io/badge/Whatsapp-%40iberecamara-green)](https://api.whatsapp.com/send/?phone=5541996146048)
-[![](https://img.shields.io/badge/Telegram-%40iberecamara-blue)](https://t.me/iberecamara)
 #### Test Automation repositories
 [![](https://img.shields.io/badge/Backend-Automation-green)](https://github.com/iberecamara/JavaBackendAutomation) 
 [![](https://img.shields.io/badge/Frontend-Automation-green)](https://github.com/iberecamara/JavaFrontendAutomation) 
@@ -17,7 +17,7 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span>Rally ALM</span><br><br>
-        <img height="64px" src="https://www.3pillarglobal.com/wp-content/uploads/2015/11/rally_logo_320x260-1.png">
+        <img height="64px" src="https://siliconangle.com/files/2012/04/rally_logo.png">
       </td>
       <td width="20%" align="center">
         <span>Jira</span><br><br>
